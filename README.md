@@ -4,7 +4,9 @@
 The AWS Cloud Resume Challenge is a popular project designed to showcase your skills in AWS services, serverless computing, infrastructure as code (IaC), and more. The challenge involves creating a resume website and deploying it using AWS services. This README provides a detailed guide on how to complete the AWS Cloud Resume Challenge, including the architecture diagram, tech stacks used, and instructions to reproduce.
 
 ## Architecture Diagram
-![Architecture Diagram](architecture_diagram.png)
+![Diagram](https://github.com/CodedbyChino/aws-cloud-resume-challenge/assets/86725589/29950cf6-ecc2-4821-8504-99b168edb54d)
+
+
 
 ## Tech Stacks Used
 - **Frontend**:
