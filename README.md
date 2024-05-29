@@ -18,7 +18,7 @@ The AWS Cloud Resume Challenge is a popular project designed to showcase your sk
 - **Database**:
   - Amazon DynamoDB
 - **Infrastructure as Code (IaC)**:
-  - AWS CloudFormation
+  - Terraform
 - **Version Control**:
   - Git, GitHub (optional)
 
