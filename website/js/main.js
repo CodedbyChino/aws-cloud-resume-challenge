@@ -149,7 +149,7 @@
 }());
 
 // JavaScript Document
-const counter = document.querySelector(".counter-number");
+const counter = document.querySelector(".counter");
 async function updateCounter() {
   const url = 'https://6bcq55hh7ezmlpth5zqx3krx4e0lqqoo.lambda-url.us-east-1.on.aws/';
   const response = await fetch(url);
