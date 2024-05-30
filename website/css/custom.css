@@ -1,0 +1,6 @@
+/* Custom styles for the view counter */
+.counter-number {
+    font-size: 16px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
