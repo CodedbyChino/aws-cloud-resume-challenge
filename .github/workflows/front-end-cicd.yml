@@ -25,4 +25,4 @@ jobs:
           args: --acl public-read --follow-symlinks
         env:
           SOURCE_DIR: website  # Adjust this to the path within your repo
-          DESTINATION_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
