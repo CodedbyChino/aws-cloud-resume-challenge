@@ -1,2 +1,4 @@
 .terraform/
-.yml/
+.yml
+front-end-cicd.yml
+.workflows/
